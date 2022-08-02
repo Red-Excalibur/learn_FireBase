@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467030455782",
+    "project_id": "learn-firebase-39bfe",
+    "storage_bucket": "learn-firebase-39bfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467030455782:android:4018b45d977437316f1227",
+        "android_client_info": {
+          "package_name": "com.earn_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467030455782-c9djs4foo2u0rcnfqaaq46phsm91cd58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnpk_Via7UdHcyIeFRd61vj_TlxgkG1Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467030455782-c9djs4foo2u0rcnfqaaq46phsm91cd58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
